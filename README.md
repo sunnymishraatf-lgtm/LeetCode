@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
@@ -60,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
