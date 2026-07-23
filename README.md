@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -53,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0005-longest-palindromic-substring) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
