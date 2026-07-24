@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0007-reverse-integer) |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Sorting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
+| [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
