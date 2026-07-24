@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
