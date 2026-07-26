@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0012-integer-to-roman](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
