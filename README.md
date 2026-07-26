@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0016-3sum-closest) |
+| [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
