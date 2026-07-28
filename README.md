@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Heap (Priority Queue)
 |  |
