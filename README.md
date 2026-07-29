@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Sliding Window
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -204,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0022-generate-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
