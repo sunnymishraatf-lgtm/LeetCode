@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0485-max-consecutive-ones](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
