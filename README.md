@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0040-combination-sum-ii) |
 ## Combinatorics
 |  |
 | ------- |
