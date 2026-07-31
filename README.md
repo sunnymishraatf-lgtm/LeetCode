@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0485-max-consecutive-ones](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
