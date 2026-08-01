@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
 | [0485-max-consecutive-ones](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0043-multiply-strings) |
+| [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/0010-regular-expression-matching/) | Hard |
 | [0021-merge-two-sorted-lists](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## String
 |  |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
+| [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 ## Segment Tree
 |  |
 | ------- |
@@ -268,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
