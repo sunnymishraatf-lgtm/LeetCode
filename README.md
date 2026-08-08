@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Segment Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Matrix
 |  |
