@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1470-shuffle-the-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1929-concatenation-of-array](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Binary Search
 |  |
 | ------- |
