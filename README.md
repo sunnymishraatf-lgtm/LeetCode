@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1140-stone-game-ii) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1470-shuffle-the-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0029-divide-two-integers) |
 | [0645-set-mismatch](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [2029-stone-game-ix](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/2029-stone-game-ix) |
