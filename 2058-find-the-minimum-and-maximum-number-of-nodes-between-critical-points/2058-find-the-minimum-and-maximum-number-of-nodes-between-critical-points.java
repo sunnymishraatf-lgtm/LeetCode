@@ -1,42 +1,28 @@
 class Solution {
     public int[] nodesBetweenCriticalPoints(ListNode head) {
-        List<Integer> nums = new ArrayList<>();
+        int min = 100000, i = 1;
+        int first = 0, last = 0;
 
-        while(head != null){
-            nums.add(head.val);
-            head = head.next;
-        }
+        ListNode prev = head, curr = head.next, nxt = head.next.next;
 
-        List<Integer> criticalPoints = new ArrayList<>();
-
-        int n = nums.size();
-
-        for(int i = 1; i < n - 1; i++){
-            if(nums.get(i) > nums.get(i - 1) && nums.get(i) > nums.get(i + 1)){
-                criticalPoints.add(i);
+        while (nxt != null) {
+            if (isCrit(prev, curr, nxt)) {
+                if (first == 0) first = i;
+                else min = Math.min(min, i - last);
+                last = i;
             }
-            else if(nums.get(i) < nums.get(i - 1) && nums.get(i) < nums.get(i + 1)){
-                criticalPoints.add(i);
-            }
+
+            prev = curr; curr = nxt;
+            nxt = nxt.next; i++;
         }
 
-        int m = criticalPoints.size();
+        if (first == last) return new int[]{-1, -1};
 
-        if(m < 2){
-            return new int[]{-1, -1};
-        }
-
-        int minDist = Integer.MAX_VALUE;
-
-        int maxDist = criticalPoints.get(m - 1) - criticalPoints.get(0);
-
-        for(int i = 1; i < m; i++){
-            minDist = Math.min(
-                minDist,
-                criticalPoints.get(i) - criticalPoints.get(i - 1)
-            );
-        }
-
-        return new int[]{minDist, maxDist};
+        return new int[]{min, last - first};
+    }
+    
+    boolean isCrit(ListNode a, ListNode b, ListNode c) {
+        return (a.val < b.val && b.val > c.val) ||
+               (a.val > b.val && b.val < c.val);
     }
 }
