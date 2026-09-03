@@ -1,12 +1,20 @@
 class Solution {
-    public boolean uniformArray(int[] a) {
-        int mn = Integer.MAX_VALUE;
-        int oddCnt = 0;
-        for (int x : a) {
-            mn = Math.min(mn, x);
-            if (x % 2 == 1) oddCnt++;
+    public boolean uniformArray(int[] nums1) {
+        int min=Integer.MAX_VALUE;
+        for(int num:nums1){
+            min=Math.min(min,num);
         }
-        // min Element is ODD(remaining even > min) or All Even!
-        return mn % 2 != 0 || oddCnt == 0;
+
+        //minimum is odd->always possible
+        if(min%2==1){
+            return true;
+        }
+        //minimum is even -> all elements must be even 
+        for(int num:nums1){
+            if(num%2==1){
+                return false;
+            }
+        }
+        return true;
     }
 }
