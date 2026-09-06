@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1140-stone-game-ii) |
