@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0940-distinct-subsequences-ii) |
