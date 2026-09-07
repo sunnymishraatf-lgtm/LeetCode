@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0844-backspace-string-compare](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0940-distinct-subsequences-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/1510-stone-game-iv) |
