@@ -1,22 +1,29 @@
+import java.util.*;
+
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> res = new ArrayList<String>();
-        recurse(res, 0, 0, "", n);
-        return res;
+        List<String> ans = new ArrayList<>();
+        char[] s = new char[2 * n];
+        solve(ans, s, 0, 0, 0, n);
+        return ans;
     }
-    
-    public void recurse(List<String> res, int left, int right, String s, int n) {
-        if (s.length() == n * 2) {
-            res.add(s);
+
+    private void solve(List<String> ans, char[] s, int pos,
+                       int open, int close, int n) {
+
+        if (pos == s.length) {
+            ans.add(new String(s));
             return;
         }
-        
-        if (left < n) {
-            recurse(res, left + 1, right, s + "(", n);
+
+        if (open < n) {
+            s[pos] = '(';
+            solve(ans, s, pos + 1, open + 1, close, n);
         }
-        
-        if (right < left) {
-            recurse(res, left, right + 1, s + ")", n);
+
+        if (close < open) {
+            s[pos] = ')';
+            solve(ans, s, pos + 1, open, close + 1, n);
         }
     }
 }
