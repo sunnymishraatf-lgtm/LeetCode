@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0045-jump-game-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0043-multiply-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/sunnymishraatf-lgtm/LeetCode/tree/master/0836-rectangle-overlap) |
